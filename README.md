@@ -1,8 +1,7 @@
 ## Desenvolvedor Web Fullstack
 
-Estou estudando programação à 6 meses, fiz alguns projetos e planejo melhorar à cada dia.
+🚀 Desenvolvedor Full Stack apaixonado por criar soluções digitais modernas e escaláveis. Com experiência sólida em **React.js**, **Next.js**, **NestJS**, **TypeScript**, e muito mais, estou sempre buscando novas tecnologias e desafios. Aqui, você encontrará projetos que combinam criatividade, inovação e performance.  
 
-- Atualmente estou estudando Typescript, Styled Components, Responsividade e Jest.
 
 <div>
   <a href="https://github.com/offreflix">
